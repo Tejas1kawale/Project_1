@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "vue": "^3.4.35"
+  },
+  "devDependencies": {
+    "vite": "^5.3.5"
+  }
+}
