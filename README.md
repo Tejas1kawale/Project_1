@@ -1,6 +1,6 @@
 # Project_1 Setup guide 
-    ## step1  - install yarn  (https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
-    ## step2  - install npm   (https://nodejs.org/en/download/prebuilt-installer)
+    step1  - install yarn  (https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+    step2  - install npm   (https://nodejs.org/en/download/prebuilt-installer)
     step3  - install vite  (command - yarn add vite --dev <proxy>)
     step4 - install vue (command - yarn add vue  <proxy>)
     step5 - create a file named "vite.config.js"
