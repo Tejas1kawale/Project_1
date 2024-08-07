@@ -1,11 +1,11 @@
 <template>
-    <login/>
+    <Header/>
+    <router-view/>
 </template>
 
-
+<!-- <login/> -->
 <script setup>
-import login from './components/AuthComponents/login.vue'
-
+import Header from './components/Header-Footer/Header.vue'
 </script>
 
 <style>
