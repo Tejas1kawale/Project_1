@@ -73,14 +73,11 @@ opacity: 0.8;
 padding: 16px;
 }
 .MainContainer{
-
-
-padding: 16px;
-justify-content: center;
-display: flex;
-align-items: center;
-
-
+  height: 80vh;
+  padding: 16px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
 h3{
   text-align: center;

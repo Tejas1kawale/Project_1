@@ -1,6 +1,3 @@
 <template>
-<h1>
-  you are on main page
-</h1>
-  
+ <h1> Welcome to To Do List Project </h1>
 </template>
