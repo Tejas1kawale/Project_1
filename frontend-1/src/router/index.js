@@ -11,6 +11,7 @@ import { routes } from 'vue-router/auto-routes'
 import { components } from 'vuetify/dist/vuetify-labs.js'
 import main from '../components/dashboard/main.vue'
 import login from '../components/Auth/login.vue'
+import signup from '../components/Auth/signup.vue'
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
   routes:[{
@@ -21,6 +22,10 @@ const router = createRouter({
   {
     path:'/login',
     component: login
+  },
+  {
+    path:'/signup',
+    component: signup
   }
 ]
 })
