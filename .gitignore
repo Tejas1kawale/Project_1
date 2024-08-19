@@ -1,5 +1,6 @@
 node_modules
 vite.config.js
 yarn.lock
+env
 .env
 Project_1_env
